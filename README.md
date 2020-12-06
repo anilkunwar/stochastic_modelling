@@ -3,7 +3,7 @@ A model for probabilistic modelling of a composite-tool system undergoing proces
 <br>
 <br>
 Bootstrap particle filering method is coded for probabilistic modelling of composite-tool system. A composite material on a tool is going under a temperature cycle inside an autoclave. Some measurements are done during the processing at limited (multiple) locations using some noisy sensors. The temperature and degree of cure are evolving based on the governing differential equations. We have uncertainties in:
-1. all material properties  (18 material parameter)
+1. all material properties  (18 material parameters)
 2. air temperature inside the autoclave
 3. initial temperature of the composite and tool (uncertainty in the room temperature)
 
