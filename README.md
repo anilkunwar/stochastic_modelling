@@ -31,3 +31,10 @@ Examples: <br>
 4. no sensor, only very high uncertainty in air temperature
 5. no sensor, only very high uncertainty in air temperature, 30 elements (more number of elements for higher accuracy)
 6. no sensor, only very high uncertainty in air temperature, constant temperature
+
+
+
+Reference <br>
+https://www.cs.ubc.ca/~arnaud/doucet_johansen_tutorialPF.pdf <br>
+https://link.springer.com/chapter/10.1007/978-1-4757-3437-9_1 <br>
+https://stats.stackexchange.com/questions/237468/bootstrap-filter-particle-filter-algorithmunderstanding <br>
