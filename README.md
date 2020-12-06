@@ -11,7 +11,7 @@ We are finding the predictions of temperature at any location in composite and t
 
 
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/imge01.jpg" width="900"/>
+<img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/imge01.jpg" width="750"/>
 
 Inputs: <br>
 1. Geometry of composite part and tool
