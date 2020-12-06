@@ -22,7 +22,9 @@ Inputs: <br>
 Outputs: <br>
 1. Mean value and unvertainty prediction of temperature at any location
 
-  
+ <br>
+An exmaple of predictions
+<img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/image2.jpg" width="650"/>  
   
 Examples: <br>
 1. sensor measurements at two locations
@@ -31,6 +33,7 @@ Examples: <br>
 4. no sensor, only very high uncertainty in air temperature
 5. no sensor, only very high uncertainty in air temperature, 30 elements (more number of elements for higher accuracy)
 6. no sensor, only very high uncertainty in air temperature, constant temperature
+
 
  <br>
  <br>
