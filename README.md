@@ -10,15 +10,6 @@ Bootstrap particle filering method is coded for probabilistic modelling of compo
 We are prediction temperature at any location in composite and tool material and uncertainties associated to those temperature values. <br>
 
 
-- **Transitions**:
-$X_t/X_{t-1} \sim f(x_t/x_{t-1})$
-
-- **Observations**:
-$Y_t/X_{t} \sim g(y_t/x_{t})$
-
-- **Initial state** :
-$X_0  \sim \mu(x_0)$
-
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/imge01.jpg" width="750"/>
 
@@ -41,8 +32,8 @@ Examples: <br>
 5. no sensor, only very high uncertainty in air temperature, 30 elements (more number of elements for higher accuracy)
 6. no sensor, only very high uncertainty in air temperature, constant temperature
 
-
-
+ <br>
+ <br>
 Reference <br>
 https://www.cs.ubc.ca/~arnaud/doucet_johansen_tutorialPF.pdf <br>
 https://link.springer.com/chapter/10.1007/978-1-4757-3437-9_1 <br>
