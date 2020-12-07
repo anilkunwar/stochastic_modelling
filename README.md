@@ -44,4 +44,4 @@ https://stats.stackexchange.com/questions/237468/bootstrap-filter-particle-filte
 This model is developed with support of <br>
 <br>
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/active_learning/blob/main/images/image02.png"/> 
+<img  align="center" src="https://github.com/saniaki/stochastic_modelling/blob/main/images/image02.png"/> 
