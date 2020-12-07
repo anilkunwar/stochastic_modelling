@@ -6,26 +6,20 @@ Bootstrap particle filering method is coded for probabilistic modelling of compo
 1. all material properties  (18 material parameters)
 2. air temperature inside the autoclave
 3. initial temperature of the composite and tool (uncertainty in the room temperature)
-
 We are prediction temperature at any location in composite and tool material and uncertainties associated to those temperature values. <br>
-
-
+<br>
 <p align="center">
 <img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/imge01.jpg" width="750"/>
-
+<br>
 Inputs: <br>
 1. Geometry of composite part and tool
 2. All material properties and the uncersatinty in their values
 3. Processing condition (temperature cycle)
-
-
 Outputs: <br>
 1. Mean value and unvertainty prediction of temperature at any location
-
- <br>
+<br>
 An exmaple of predictions
 <img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/image2.jpg" width="650"/>  
-  
 Examples: <br>
 1. sensor measurements at two locations
 2. no sensor measurements
@@ -33,17 +27,16 @@ Examples: <br>
 4. no sensor, only very high uncertainty in air temperature
 5. no sensor, only very high uncertainty in air temperature, 30 elements (more number of elements for higher accuracy)
 6. no sensor, only very high uncertainty in air temperature, constant temperature
-
-
- <br>
- <br>
+<br>
+<br>
 Reference <br>
 https://www.cs.ubc.ca/~arnaud/doucet_johansen_tutorialPF.pdf <br>
 https://link.springer.com/chapter/10.1007/978-1-4757-3437-9_1 <br>
 https://stats.stackexchange.com/questions/237468/bootstrap-filter-particle-filter-algorithmunderstanding <br>
 <br>
 <br>
-_Acknowledgement_ <br>
+
+**Acknowledgement** <br>
 This model is developed with support of <br>
 <br>
 <p align="center">
