@@ -43,7 +43,7 @@ https://link.springer.com/chapter/10.1007/978-1-4757-3437-9_1 <br>
 https://stats.stackexchange.com/questions/237468/bootstrap-filter-particle-filter-algorithmunderstanding <br>
 <br>
 <br>
-**Acknowledgement** <br>
+**Acknowledgement**
 This model is developed with support of <br>
 <br>
 <p align="center">
