@@ -19,7 +19,9 @@ Outputs: <br>
 1. Mean value and unvertainty prediction of temperature at any location
 <br>
 An exmaple of predictions <br>
+<p align="center">
 <img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/image2.jpg" width="650"/>  <br> 
+
 Available examples: <br>
 1. sensor measurements at two locations
 2. no sensor measurements
