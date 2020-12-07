@@ -9,7 +9,7 @@ Bootstrap particle filering method is coded for probabilistic modelling of compo
 We are prediction temperature at any location in composite and tool material and uncertainties associated to those temperature values. <br>
 <br>
 <p align="center">
-<img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/imge01.jpg" width="750"/>
+<img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/imge01.jpg" width="750"/> <br>
 <br>
 Inputs: <br>
 1. Geometry of composite part and tool
@@ -19,8 +19,8 @@ Outputs: <br>
 1. Mean value and unvertainty prediction of temperature at any location
 <br>
 An exmaple of predictions <br>
-<img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/image2.jpg" width="650"/>  
-Examples: <br>
+<img  align="center" src="https://github.com/saniaki/Stochastic_modelling_composites_processing/blob/main/images/image2.jpg" width="650"/>  <br> 
+Available examples: <br>
 1. sensor measurements at two locations
 2. no sensor measurements
 3. no sensor measurements, no uncertainty of air temperature
